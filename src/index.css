@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.FilmData {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.FilmCard {
+  background: whitesmoke;
+  width: 350px;
+  height: 550px;
+  box-shadow: 0px 5px 20px 2px black;
+}
